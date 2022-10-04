@@ -3,11 +3,10 @@
 
 
 ## Table of Contents
-* Load Data
-* Understand data
-* Clean data
-* Univariate analysis
-* Bivariate Analysis
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -33,7 +32,11 @@ Loan dataset is provided that contains past loan details of cutomers.
 
 
 ## Technologies Used
-- python
+- pandas--Version: 1.4.2
+- numpy--Version: 1.21.5
+- seaborn--Version: 1.4.2
+- matplotlib
+- python--Version: 3.9.12
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
